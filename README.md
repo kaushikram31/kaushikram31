@@ -5,10 +5,10 @@
 - 📖 I'm currently learning Langchain and LLMs.
 
 ## 🤝Socials
-- 📧 Reach out to me: akhanna3@ncsu.edu
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-vijay-khanna)
-- 🐙 Check out my projects on [GitHub](https://github.com/aksensi)
-- 📖 Visit my IEEE Profile: [IEEE Profile](https://ieeexplore.ieee.org/author/37088974843)
+- 📧 Reach out to me: kselvar2@ncsu.edu
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kaushik-ram-selvaraj-48b14b179/)
+- 🐙 Check out my projects on [GitHub](https://github.com/kaushikram31)
+- 📖 Visit my ORCID Profile: [ORCID Profile](https://orcid.org/0000-0002-2033-2454)
 
 ## 👨‍💻Languages and Tools
 <p align="left">
